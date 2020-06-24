@@ -1,5 +1,4 @@
-import styled, { css } from 'styled-components';
-import { type } from 'os';
+import styled from 'styled-components';
 
 export const Container = styled.div`
   position: absolute;
